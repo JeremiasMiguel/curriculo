@@ -1,0 +1,64 @@
+﻿body {
+   background-color: #85a7ce;
+   font-family: 'Arsenal', sans-serif;
+   text-align: center;
+}
+
+ul{
+  width: 60%;
+  background: blue;
+  border-radius: 30px;
+  text-align: center;
+  margin-right:auto; 
+  margin-left:auto;
+}
+
+ul>li{
+  display: inline-block;
+  padding: 8px 10px 8px 10px;
+  color: white;
+  text-align: center;
+  margin-right:auto; 
+  margin-left:auto;
+}
+
+ul>li>a{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+ul>li:hover{
+  background: black;
+}
+
+#Educação, #Habilidades, #Experiências, #Complementar, #Tabela{
+  background-color: 1c1c27;
+  color: #15181c;
+}
+
+h1, h2{
+   font-family: 'News Cycle', sans-serif;
+}
+
+strong, a{
+   font-family: 'Arsenal', sans-serif;
+}
+
+.menucss{
+   text-align: center;
+}
+
+table{
+   margin-right:auto; 
+   margin-left:auto;
+}
+
+img.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+.idcss {
+    text-align: left;
+}
